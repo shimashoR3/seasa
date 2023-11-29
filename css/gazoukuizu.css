@@ -1,0 +1,65 @@
+/*トップ画面の背景*/
+body {
+    background-image: url("../img/hutuhaikei.png");
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.title{
+    color: black;
+    font-size: 15px;
+}
+
+
+.monndaibunn{
+    position: relative;
+  top: 5px;
+    color: black;
+    font-size: 20px;
+}
+
+.daiitimonn{
+    position:relative;
+    top: 1px;
+  color: black;
+    font-size: 15px;
+}
+
+.absolute07{
+    position:absolute;
+    right: 80px;
+    bottom: 360px;
+}
+
+.absolute08{
+    position:absolute;
+    right: 30px;
+    bottom: 250px;
+}
+
+.absolute09{
+    position: absolute;
+    right: 30px;
+    bottom:150px;
+}
+
+.absolute10{
+    position: absolute;
+    right: 30px;
+    bottom:50px;
+}
+
+.absolute11{
+    position:absolute;
+    right: 88px;
+    bottom: 360px;
+}
+
+.absolute12{
+    position:absolute;
+    right: 80px;
+    bottom: 365px;
+}

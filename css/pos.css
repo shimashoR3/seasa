@@ -1,0 +1,26 @@
+body {
+    background-image: url("../img/gaidohaikei.png");
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.absolute01{
+position: absolute;
+right: 2px;
+bottom: 20x;
+}
+
+.absolute02{
+    position: absolute;
+    right: 270px;
+    bottom: 30px;
+}
+
+.absolute03{
+    position: absolute;
+    right: 20px;
+    bottom: 30px;
+}

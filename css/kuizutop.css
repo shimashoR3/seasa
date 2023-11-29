@@ -1,0 +1,29 @@
+.box {
+	margin: 10px;
+    width: 70%;
+}
+#result-msg {
+	font-size: 24px;
+}
+#result-img {
+    width: 70%;
+}
+
+.relative{
+ position: relative;
+}
+.absolute01{
+    position: absolute;
+    right: 30px;
+    bottom: 300px;
+}
+.absolute02{
+    position: absolute;
+    right: 30px;
+    bottom: 200px;
+}
+.absolute03{
+    position: absolute;
+    right: 30px;
+    bottom: 100px;
+}

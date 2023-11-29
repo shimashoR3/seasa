@@ -1,0 +1,55 @@
+/*トップ画面の背景*/
+body {
+    background-image: url("../img/muzukasiihaikei1.jpeg");
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+/*スタート画面の文字*/
+.title{
+    color: black;
+    font-size: 15px;
+}
+
+.daiitimonn{
+    position:relative;
+    top: 1px;
+  color: black;
+    font-size: 15px;
+}
+
+.monndaibunn{
+    position: relative;
+  top: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+.absolute01{
+    position: absolute;
+    right: 30px;
+    bottom: 300px;
+}
+.absolute02{
+    position:absolute;
+    right: 30px;
+    bottom: 360px;
+}
+.absolute03{
+    position: absolute;
+    right: 30px;
+    bottom:260px;
+}
+.absolute04{
+    position: absolute;
+    right: 30px;
+    bottom:160px;
+}
+
+.absolute05{
+    position: absolute;
+    right: 30px;
+    bottom:300px;
+}
